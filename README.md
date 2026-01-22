@@ -1,5 +1,6 @@
 # Intelligent reference and analytical system of national ICT standards
 
+```
 analytical_system/
 ├── ape/
 ├── bat/
@@ -21,3 +22,4 @@ analytical_system/
 ├── parse_pdf_terms_and_clauses.py - utils for extracting terms, definitions and clauses from PDF file
 ├── vector_db_utils.py - API for working with ChromaDB
 └── README.md
+```
